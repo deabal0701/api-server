@@ -13,6 +13,7 @@ public class ApiMain {
             ApiServer server = springContext.getBean(ApiServer.class);
             server.start();
             //메인을 수정함.
+            //메인을 수정함2.
         }
         finally {
             springContext.close();

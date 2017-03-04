@@ -37,5 +37,5 @@
  *
  */
 public class NewClass {
-
+   //클래스에 주석추가1
 }

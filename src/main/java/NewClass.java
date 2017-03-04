@@ -39,4 +39,5 @@
 public class NewClass {
    //클래스에 주석추가1
 	//클래스에 주석추가2
+	//COMMIT & PUSH 3
 }
